@@ -1,2 +1,5 @@
 # env files
 .env*
+
+# js files
+*.js
